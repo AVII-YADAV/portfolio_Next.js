@@ -42,7 +42,7 @@ A stunning, futuristic portfolio website built with Next.js 14, Tailwind CSS, an
 
    ```bash
    https://github.com/AVII-YADAV/portfolio_Next.js
-   cd cyberpunk-portfolio
+   cd portfolio_Next.js
    ```
 
 2. **Install dependencies**
