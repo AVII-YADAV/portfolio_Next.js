@@ -41,7 +41,7 @@ A stunning, futuristic portfolio website built with Next.js 14, Tailwind CSS, an
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/cyberpunk-portfolio.git
+   https://github.com/AVII-YADAV/portfolio_Next.js
    cd cyberpunk-portfolio
    ```
 
@@ -257,9 +257,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Avinash Yadav** - [avinash@aviatorwebsolutions.com](mailto:avinash@aviatorwebsolutions.com)
+**Avinash Yadav** - [adminh@ahostingaviator.cloud](mailto:adminh@ahostingaviator.cloud)
 
-Project Link: [https://github.com/yourusername/cyberpunk-portfolio](https://github.com/yourusername/cyberpunk-portfolio)
+Project Link: [https://github.com/AVII-YADAV/portfolio_Next.js](https://github.com/AVII-YADAV/portfolio_Next.js))
 
 ---
 
